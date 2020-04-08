@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">l3-Stringbuilder</string>
+    <string name="button">Gen</string>
+    <string name="outputString" />
+</resources>
